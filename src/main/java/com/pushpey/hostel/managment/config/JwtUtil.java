@@ -14,7 +14,7 @@ import java.util.Date;
 public class JwtUtil {
 
     // Required 256-bit minimum key size for HS256 algorithm
-    //private final String SECRET = "mysecretkeymysecretkeymysecretkey123";
+    //private final String SECRET = "..........";
     @Value("${jwt.secret}")
     private String SECRET ;
 
