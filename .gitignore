@@ -7,6 +7,8 @@ target/
 ### ENV FILE ###
 .env
 
+src/main/resources/application-local.properties
+
 ### STS ###
 .apt_generated
 .classpath
